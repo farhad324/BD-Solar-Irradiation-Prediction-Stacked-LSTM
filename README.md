@@ -17,7 +17,7 @@ RMSE (KHU):
 RMSE (SYL):
 RMSE (RAJ): 424.39
 
-![ctg](bd_irradiation_images/ctg_ghi.PNG)
-![khu](bd_irradiation_images/khu_ghi.PNG)
-![syl](bd_irradiation_images/syl_ghi.PNG)
-![raj](bd_irradiation_images/raj_ghi.PNG)
+![ctg](bd_irradiation_images/ctg_ghi.png)
+![khu](bd_irradiation_images/khu_ghi.png)
+![syl](bd_irradiation_images/syl_ghi.png)
+![raj](bd_irradiation_images/raj_ghi.png)
